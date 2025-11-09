@@ -20,7 +20,7 @@ def play():
         13: {'text': "\nMalar malaraa pozhiyum <3 @K4issz.luv", 'speed': 0.07, 'gap_after': None} 
     }
 
-    print('ðŸŽ§ Now Playing: "Kannadi Poove" - Santhosh Narayanan (2025)')
+    print('🎧 Now Playing: "Kannadi Poove" - Santhosh Narayanan (2025)')
     time.sleep(1.0)
     for x in range(len(lyrics)):
         line_data = lyrics[x]
